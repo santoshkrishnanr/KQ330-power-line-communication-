@@ -2,7 +2,7 @@
 Python program on raspberry pi to communicate on power, using KQ330 PLC (Power Line Communication)
 
 # Basic of KQ330
-The PLC can transmit the broadband data via power line, which are suitable for either residential (at-home) or commercial (offices, apartments, hotels, warehouses) network applications, which utilize power lines. No need to install new wires 
+The PLC can transmit the data via power line, which are suitable for either residential (at-home) or commercial (offices, apartments, hotels, warehouses) network applications, which utilize power lines. No need to install new wires 
 this module works  is a single-row 9-pin small-sized high-performance carrier data transceiver module. Specifically designed for reliable transmission of high-speed data in 0V-220V AC/DC and non-powered environments (such as pipelines and earth, a signal line and earth, two signal lines, 12V AC/DC power lines, etc.) And developed cost-effective carrier modules. Suitable for industrial control, railways, community intelligence, smart home, building control, and other applications that require carrier transmission of data. Transmission distance up to 2.5Km (power line). The actual highest carrier rate is 2400 BPS. 
 other  features are :
 * Supports Both RS232 and TTL Interface.
